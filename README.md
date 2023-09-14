@@ -241,7 +241,7 @@ digital logic.
 
 [1] Binary to Gray code conversion: [https://www.javatpoint.com/binary-to-gray-codecconversion-in-digital-electronics](https://www.javatpoint.com/binary-to-gray-code-cconversion-in-digital-electronics)
 
-[2] Binary to Excess-3 conversion: [https://www.geeksforgeeks.org/code-convertersbcd8421-to-from-excess-3/](https://www.geeksforgeeks.org/code-convertersbcd8421-to-from-excess-3/)
+[2] Binary to Excess-3 conversion: [https://www.geeksforgeeks.org/code-convertersbcd8421-to-from-excess-3/](https://www.geeksforgeeks.org/code-converters-bcd8421-to-from-excess-3/))
 
 [3] LM7805 data sheet : Data sheet acquired from SLVS056J – MAY 1976 – REVISED
 MAY 2003,Texas Instruments, for µA7800 SERIES POSITIVE-VOLTAGE
