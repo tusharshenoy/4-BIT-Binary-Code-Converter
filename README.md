@@ -1,4 +1,5 @@
 # ***4-BIT-Binary-Code-Converter***
+## *YouTube Presentation Video [https://youtu.be/LKjUK4XkPTA?si=LpwLQKzt9dTyg0jz](https://youtu.be/LKjUK4XkPTA?si=LpwLQKzt9dTyg0jz)*
 ## ***Abstract***
 This Project discusses the conversions of various binary codes from one form to another. A code converter is a logic circuit that changes data presented in one type of binary code to another type of binary code, such as binary to gray code, gray code to binary, BCD to excess-3 code and excess-3 code to BCD. 
 The group of symbols is called as code. The digital data is represented, stored and transmitted as group of bits. This group of bits is also called as binary code. Binary codes can be classified into two types and they are weighted codes and non-weighted codes. If the code has positional weights, then it is said to be weighted code. Otherwise, it is an unweighted code. Weighted codes can be further classified as positively weighted codes and negatively weighted codes. 
@@ -61,6 +62,7 @@ with Logic gates like OR, AND, NOT and XOR.
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/f7503480-1f66-4b40-9ebe-5f2abc508a19)
 
 ### ***Code Converter Circuit Diagram*** ###
+
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/0a53c13a-1ec3-4e0c-b7d3-8cef2eaf1e6c)
 
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/c2812aea-0929-4ffd-a28c-4eecb6515502)
@@ -243,12 +245,9 @@ digital logic.
 
 [2] Binary to Excess-3 conversion: [https://www.geeksforgeeks.org/code-convertersbcd8421-to-from-excess-3/](https://www.geeksforgeeks.org/code-converters-bcd8421-to-from-excess-3/)
 
-[3] LM7805 data sheet : Data sheet acquired from SLVS056J – MAY 1976 – REVISED
-MAY 2003,Texas Instruments, for µA7800 SERIES POSITIVE-VOLTAGE
-REGULATORS [https://www.sparkfun.com/datasheets/Components/LM7805.pdf](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
+[3] LM7805 data sheet : Data sheet acquired from SLVS056J – MAY 1976 – REVISED MAY 2003,Texas Instruments, for µA7800 SERIES POSITIVE-VOLTAGE REGULATORS [https://www.sparkfun.com/datasheets/Components/LM7805.pdf](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
 
-[4] IC 74153 Data Sheet
-[https://datasheetspdf.com/pdf/248155/NationalSemiconductor/74153/1](https://datasheetspdf.com/pdf/248155/NationalSemiconductor/74153/1)
+[4] IC 74153 Data Sheet [https://datasheetspdf.com/pdf/248155/NationalSemiconductor/74153/1](https://datasheetspdf.com/pdf/248155/NationalSemiconductor/74153/1)
 
 [5] IC 74139 Data Sheet [https://www.futurlec.com/74LS/74LS139.shtml](https://www.futurlec.com/74LS/74LS139.shtml)
 
