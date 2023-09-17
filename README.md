@@ -90,15 +90,13 @@ KiCAD software was used for the design of the circuit.
 
 7. LM7805 IC (5V voltage regulator) - 1
 
-8. RED LEDs - 4
+8. Cathode 7-segment display - 4
 
-9. Cathode 7-segment display - 4
+9. 9V battery - 1
 
-10. 9V battery - 1
+10. Diodes (1N4007) - 16
 
-11. Diodes (1N4007) - 16
-
-12. 6 Pin Button Switch - 6
+11. 6 Pin Button Switch - 6
 
 ## ***Hardware Components Description***
 
@@ -190,6 +188,14 @@ LEDs.
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/6e43e89e-a0f7-4a5a-86a3-388f9a4e1920)
 
 
+##	***Project Gallery*** ##
+![photo_3_2023-09-17_11-48-13](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/f13eaac6-84f7-4d7e-9c9a-419d8c816889)
+
+![photo_4_2023-09-17_11-48-13](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/cbdacbb1-e56b-455f-a75d-cc50b6a716ef)
+
+![photo_2_2023-09-17_11-48-13](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/d1759e0e-fc70-4131-8d6d-bee2da5a36b4)
+
+![photo_2_2023-09-17_11-48-13](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/e70e231a-070f-4cb9-a5a0-130bcebafbc2)
 
 
 
