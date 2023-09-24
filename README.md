@@ -192,8 +192,6 @@ LEDs.
 
 ![photo_2_2023-09-17_11-48-13](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/d1759e0e-fc70-4131-8d6d-bee2da5a36b4)
 
-![photo_2_2023-09-17_11-48-13](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/e70e231a-070f-4cb9-a5a0-130bcebafbc2)
-
 
 
 ##	***Results and Discussion*** ##
