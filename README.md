@@ -67,9 +67,6 @@ with Logic gates like OR, AND, NOT and XOR.
 
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/c2812aea-0929-4ffd-a28c-4eecb6515502)
 
-![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/a5f747ed-a7ab-4d02-86a7-cad477d0c225)
-
-
 
 
 ## ***Tech Stack***
