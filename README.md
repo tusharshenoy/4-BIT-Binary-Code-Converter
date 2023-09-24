@@ -71,6 +71,9 @@ with Logic gates like OR, AND, NOT and XOR.
 
 
 
+
+
+
 ## ***Tech Stack***
 KiCAD software was used for the design of the circuit.
 
