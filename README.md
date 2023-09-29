@@ -1,5 +1,23 @@
 # ***4-BIT-Binary-Code-Converter***
+
 ## *YouTube Presentation Video [https://youtu.be/LKjUK4XkPTA?si=LpwLQKzt9dTyg0jz](https://youtu.be/LKjUK4XkPTA?si=LpwLQKzt9dTyg0jz)*
+
+## Table of Contents
+- [Abstract](#Abstract)
+- [Introduction](#Introduction)
+- [Design and Implementation](#Design-and-Implementation)
+- [Code Converter Circuit Diagram](#Code-Converter-Circuit-Diagram)
+- [Tech Stack](#Tech-Stack)
+- [Hardware Components](#Hardware-Components)
+- [Hardware Components Description](#Hardware-Components-Description)
+- [Truth Table](#Truth-Table)
+- [Working](#Working)
+- [Project Gallery](#Project-Gallery)
+- [Results and Discussion](#Results-and-Discussion)
+- [Conclusion](#Conclusion)
+- [References](#References)
+
+  
 ## ***Abstract***
 This Project discusses the conversions of various binary codes from one form to another. A code converter is a logic circuit that changes data presented in one type of binary code to another type of binary code, such as binary to gray code, gray code to binary, BCD to excess-3 code and excess-3 code to BCD. 
 The group of symbols is called as code. The digital data is represented, stored and transmitted as group of bits. This group of bits is also called as binary code. Binary codes can be classified into two types and they are weighted codes and non-weighted codes. If the code has positional weights, then it is said to be weighted code. Otherwise, it is an unweighted code. Weighted codes can be further classified as positively weighted codes and negatively weighted codes. 
@@ -68,7 +86,6 @@ with Logic gates like OR, AND, NOT and XOR.
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/c2812aea-0929-4ffd-a28c-4eecb6515502)
 
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/c0146fc0-db5a-4264-9620-718868517ed6)
-
 
 
 
@@ -158,6 +175,14 @@ gate is labeled A, and the output is labeled Y.
 
 ![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/e4cc5374-c9a2-4a35-a6dd-9ac1f1dba3f1)
 
+
+## ***Truth Table***
+![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/a0e18eb5-2c1d-4ce2-a144-bfd64acfc321)
+![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/658f1e63-390e-4270-ab21-4a9fb3b0a45d)
+![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/4004b224-3fdc-46db-9afe-23b481380b11)
+![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/6e43e89e-a0f7-4a5a-86a3-388f9a4e1920)
+
+
 ## ***Working***
 
 The 4-bit binary code converter Circuit using Demultiplexer (DEMUX) and Multiplexer
@@ -183,11 +208,7 @@ or Excess-3 code.
  The outputs of the MUX represent the converted code in the desired format.
  The Converted output is displayed on the 7 Segment displays along with the
 LEDs.
-## ***Truth Table***
-![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/a0e18eb5-2c1d-4ce2-a144-bfd64acfc321)
-![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/658f1e63-390e-4270-ab21-4a9fb3b0a45d)
-![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/4004b224-3fdc-46db-9afe-23b481380b11)
-![image](https://github.com/tusharshenoy/4-BIT-Binary-Code-Converter/assets/107348474/6e43e89e-a0f7-4a5a-86a3-388f9a4e1920)
+
 
 
 ##	***Project Gallery*** ##
